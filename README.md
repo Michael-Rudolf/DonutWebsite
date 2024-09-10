@@ -7,7 +7,7 @@ This is a small website showcasing 3D assets that is advertising donuts.
 STATUS: In development
 
 Next steps: 
-- Create 3D assets with blender (0/10)
+- Create 3D assets with blender (1/10)
 - Make short videos with the assets (0/10)
 - Find good comprimisation
 - Sleep
